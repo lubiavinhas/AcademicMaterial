@@ -1,8 +1,8 @@
 ---
 title: Initial release
-author: Jason Grimes
-date: 2023-02-20
+author: Lubia Vinhas
+date: 2024-03-25
 layout: post
 ---
 
-Initial public release of [jekyll-chapterbook](https://github.com/jasongrimes/jekyll-chapterbook).
+Initial public release of [Geoinformatics Booklet](https://github.com/lubiavinhas/AcademicMaterial).

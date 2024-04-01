@@ -535,8 +535,12 @@ figure figcaption {
     border-bottom-right-radius: 5px;
 }
 figure.row {
-    display: inline-block;
+    /*display: inline-block;*/
+    display: block;
     vertical-align: top;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 /*
 figure.row.of-3 {

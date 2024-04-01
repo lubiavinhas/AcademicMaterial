@@ -5,10 +5,7 @@ disable_toc: true
 #class: references
 ---
 
-This is an example chapter for citing references. 
 
-See the [Scribbr citation generator](https://www.scribbr.com/citation/generator/) to generate citations in the desired style.
-(These examples use APA style.)
 
 ### Citations in text
 
@@ -53,13 +50,13 @@ Berg, C. (1997). *Mastering Guitar Technique: Process and Essence (Classic Guita
 
 ## References
 
+Camara, G; Monteiro, A. M. V.; Fucks, S. D.; Carvalho, M. S. (2000) *Spatial Analysis and GIS: A Primer*. [https://www.dpi.inpe.br/gilberto/tutorials/spatial_analysis/spatial_analysis_primer.pdf](https://www.dpi.inpe.br/gilberto/tutorials/spatial_analysis/spatial_analysis_primer.pdf){:#Camara-2000}.
 
-Berg, C. (1997). *Mastering Guitar Technique: Process and Essence (Classic Guitar).* Mel Bay Publications, Inc.
-[ISBN 978-1-610-65058-8](https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-1-610-65058-8){:#berg-1997}.
+Dangermond, J; Goodchild, M. F. (2020) *Building geospatial infrastructure*, Geo-spatial Information Science, 23:1, 1-9, [DOI: 10.1080/10095020.2019.1698274](https://doi.org/10.1080/10095020.2019.1698274){:#Dangermond-2020}.
 
-Berg, C. (2019). *Practicing Music by Design: Historic Virtuosi on Peak Performance* (1st ed.). Routledge.
-[ISBN 978-0-429-57631-7](https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-0-429-57631-7){:#berg-2019}.
+Steineger, S.; Hunter, A. J. S.(2012) *The 2012 free and open source GIS software map–A guide to facilitate research, development, and adoption*. [https://doi.org/10.1016/j.compenvurbsys.2012.10.003](https://doi.org/10.1016/j.compenvurbsys.2012.10.003){:#Steineger-2012}.
 
+Waters, N. (2017) *GIS: History*, In book: The International Encyclopedia of Geography. [DOI: 10.1002/9781118786352.wbieg0841](http://dx.doi.org/10.1002/9781118786352.wbieg0841) {:#Waters-2017}
 ...
 </div>
 
