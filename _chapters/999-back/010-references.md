@@ -5,63 +5,23 @@ disable_toc: true
 #class: references
 ---
 
+Camara, G; Souza, RCM; Freitas, UM; Garrido, J (1996) *SPRING: Integrating remote sensing and GIS by object-oriented data modelling*. Computers & Graphics, 20: 395-403, [https://doi.org/10.1016/0097-8493(96)00008-8](https://doi.org/10.1016/0097-8493(96)00008-8)] {:#Camara-1996}.
 
+Camara, G; Monteiro, AMV.; Fucks, SD.; Carvalho, MS (2000) *Spatial Analysis and GIS: A Primer*. [https://www.dpi.inpe.br/gilberto/tutorials/spatial_analysis/spatial_analysis_primer.pdf](https://www.dpi.inpe.br/gilberto/tutorials/spatial_analysis/spatial_analysis_primer.pdf){:#Camara-2000}.
 
-### Citations in text
+Camara, G; Vinhas, L; Ferreira, KR; Queiroz, GR; Souza, RCMD; Monteiro, AMV; Carvalho, MTD; Casanova, MA; Freitas, UMD (2008) *TerraLib: An open source GIS library for large-scale environmental and socio-economic applications*. Open source approaches in spatial data handling, 247-270 [https://link.springer.com/chapter/10.1007/978-3-540-74831-1_12](https://link.springer.com/chapter/10.1007/978-3-540-74831-1_12){:#Camara-2008}. 
 
-Here's an example citation to be included in a text, 
-with a link to the references chapter:
+Dangermond, J; Goodchild, MF. (2020) *Building geospatial infrastructure*, Geo-spatial Information Science, 23:1, 1-9, [DOI: 10.1080/10095020.2019.1698274](https://doi.org/10.1080/10095020.2019.1698274){:#Dangermond-2020}.
 
-```
-[(Berg, 1997)](references.html#berg-1997)
-```
+Ferreira, KR et al. (2020) *Earth Observation Data Cubes for Brazil: Requirements, Methodology and Products*
+Remote Sens.2020, 12(24), 4033; [https://doi.org/10.3390/rs12244033](https://doi.org/10.3390/rs12244033)
 
-...which renders as [(Berg, 1997)](references.html#berg-1997).
+Freitas, UM; Ribeiro, VO; Queiroz, GR; Petinatti, MR; Abreu, ES (2007) *The Amazon Deforestation
+Monitoring System: A Large Environmental Database Developed on TerraLib and PostgreSQL*. OSGeo
+Journal. Vol. 3 - FOSS4G 2007 Proceedings, Dec. 2007.[OSGEO Journal](https://svn.osgeo.org/osgeo/journal/volume_3/en-us/proceedings/ribeiro/terraamazon.pdf){:#Freitas-2007} [OSGEO Journal](https://svn.osgeo.org/osgeo/journal/volume_3/en-us/proceedings/ribeiro/terraamazon.pdf){:#Freitas-2007}
 
-### Reference list
+Kolios, S, Vorobev, AV, Vorobeva, GR; Stylios, C (2017) *GIS and Environmental Monitoring: Applications in the Marine, Atmospheric and Geomagnetic Fields* (Vol. 20). Springer.[https://10.1007/978-3-319-53086-4](https://10.1007/978-3-319-53086-4){:#Kolios-2017}
 
-Use a "references" chapter in the book's end matter to list all of the complete citations,
-and receive inbound links from the in-text citations.
+Steineger, S; Hunter, AJS (2012) *The 2012 free and open source GIS software map–A guide to facilitate research, development, and adoption*. [https://doi.org/10.1016/j.compenvurbsys.2012.10.003](https://doi.org/10.1016/j.compenvurbsys.2012.10.003){:#Steineger-2012}.
 
-To use a "hanging indent" citation style like APA,
-either set `class: references` in the front matter of the references page,
-or wrap them in a div like this directly in the markdown:
-
-{% raw %}
-```html
-<div class="references" markdown="block">
-```
-{% endraw %}
-
-In order to make inbound anchor links from in-text citations work,
-we have to include a link in each reference (like the ISBN link below),
-and assign it an `id` attribute with `{:#my-id}`.
-
-{% raw %}
-```
-Berg, C. (1997). *Mastering Guitar Technique: Process and Essence (Classic Guitar).* Mel Bay Publications, Inc.
-[ISBN 978-1-610-65058-8](https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-1-610-65058-8){:#berg-1997}.
-```
-{% endraw %}
-
-...which renders as below.
-
-<div class="references" markdown="block">
-
-## References
-
-Camara, G; Monteiro, A. M. V.; Fucks, S. D.; Carvalho, M. S. (2000) *Spatial Analysis and GIS: A Primer*. [https://www.dpi.inpe.br/gilberto/tutorials/spatial_analysis/spatial_analysis_primer.pdf](https://www.dpi.inpe.br/gilberto/tutorials/spatial_analysis/spatial_analysis_primer.pdf){:#Camara-2000}.
-
-Dangermond, J; Goodchild, M. F. (2020) *Building geospatial infrastructure*, Geo-spatial Information Science, 23:1, 1-9, [DOI: 10.1080/10095020.2019.1698274](https://doi.org/10.1080/10095020.2019.1698274){:#Dangermond-2020}.
-
-Steineger, S.; Hunter, A. J. S.(2012) *The 2012 free and open source GIS software map–A guide to facilitate research, development, and adoption*. [https://doi.org/10.1016/j.compenvurbsys.2012.10.003](https://doi.org/10.1016/j.compenvurbsys.2012.10.003){:#Steineger-2012}.
-
-Waters, N. (2017) *GIS: History*, In book: The International Encyclopedia of Geography. [DOI: 10.1002/9781118786352.wbieg0841](http://dx.doi.org/10.1002/9781118786352.wbieg0841) {:#Waters-2017}
-...
-</div>
-
----
-```
-This file is located at: {{ page.path }}
-```
----
+Waters, N (2017) *GIS: History*, In book: The International Encyclopedia of Geography. [DOI: 10.1002/9781118786352.wbieg0841](http://dx.doi.org/10.1002/9781118786352.wbieg0841){:#Waters-2017}
