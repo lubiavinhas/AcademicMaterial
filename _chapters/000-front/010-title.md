@@ -5,7 +5,7 @@ abstract: This booklet contains some materials I use in courses or talks.
 ---
 
 {% include figure.html
-    caption="CBERS-"
+    caption="CBERS-4A WPM Image - Guapé-MG, Brazil"
     url="/assets/images/guape.png"
     class="row"
 %}
